@@ -35,7 +35,9 @@ Zustandda yaratgan har bir store lar asosan hook deb hisoblaniladi. Zustandda st
 # THE CREATE COUNTER STORE
 import { create } from 'zustand'
 
-const useCounter = create()
+const useCounter = create(() => ({
+  count: 0,
+}))
 ```
 
 **create()** yordamida zustandda store yaratiladi. **create()** o'zida set nomli callback function qabul qiladi.
