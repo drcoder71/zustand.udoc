@@ -1,5 +1,7 @@
 # Introduction
 
+![Zustand](../../images/bear.jpg)
+
 Zustand kichik, moslashuvchan va sodda syntaksis asosida ishlaydigan state management. Zustand o'zining ortiqcha providerlarsiz state larni boshqarishda keng qo'llaniladi. Shuningdek zustand state larni yo'qolib qolish muammolariga ham yechim bo'la olgan state management hisobladi.
 
 ## Installation
