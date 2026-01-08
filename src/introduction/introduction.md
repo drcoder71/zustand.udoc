@@ -50,8 +50,8 @@ import { create } from 'zustand'
 
 const useCounter = create((set) => {
     count: 0,
-    incrementCount: () => set(state => ({count: count + 1})),
-    decrementCount: () => set(state => ({count: count - 1}))
+    incrementCount: () => set(state => ({count: state.count + 1})),
+    decrementCount: () => set(state => ({count: state.count - 1}))
 })
 
 ```
@@ -78,6 +78,6 @@ Hozirda zustand storedan ma'lumotlarni  state callback function ko'rinishida ema
 # GET DATA & MUTATION BY DESTRUCTER
 function CounterPanel() {
   const {count, incrementCount} = useCounter()
-  return <button onClick={incrementHandler}>{count} up</button>
+  return <button onClick={incrementCount}>{count} up</button>
 }
 ```
