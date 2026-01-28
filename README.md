@@ -21,3 +21,8 @@ Zustand — bu React uchun yengil va tez state management kutubxonasi.
 ## Bo‘limlar
 
 - Introduction
+- Data Type lar bilan ishlash
+- single state va nested state lar bilan ishlash
+- web storage lar bilan ishlash (persist)
+
+Ushbu ma'qola sizga zustand ni o'rganishda va takrorlashda yordam berganidan hursandman. drCoder )
