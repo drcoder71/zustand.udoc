@@ -1,3 +1,5 @@
+    
+
 ## Persist bilan storage’lar bilan ishlash
 
 Zustand’da **persist middleware** state’ni browser storage’da saqlash uchun ishlatiladi.
@@ -13,7 +15,7 @@ Page reload bo‘lsa ham, state **yo‘qolmaydi**.
 
 ---
 
-## LocalStorage bilan ishlash
+## LocalStorage bilan ishlash	
 
 ### Store yaratish (persist + localStorage)
 

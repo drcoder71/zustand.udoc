@@ -1,5 +1,3 @@
-    
-
 # zustand.udoc – O‘zbekcha Dokumentatsiya 🇺🇿
 
 ![Zustand](./images/bear.jpg)
@@ -20,9 +18,13 @@ Zustand — bu React uchun yengil va tez state management kutubxonasi.
 
 ## Bo‘limlar
 
-- Introduction
-- Data Type lar bilan ishlash
-- single state va nested state lar bilan ishlash
-- web storage lar bilan ishlash (persist)
+- [Guide](https://github.com/drcoder71/zustand.udoc/tree/main/zustand.doc/guide)
+  - [Introduction](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/introduction.md)
+  - [Data Types](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/data-types.md)
+  - [Storage Management](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/storage-management.md)
 
-Ushbu ma'qola sizga zustand ni o'rganishda va takrorlashda yordam berganidan hursandman. drCoder )
+- [Templates](https://github.com/drcoder71/zustand.udoc/tree/main/zustand.doc/templates)
+  - [Auth](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/templates/auth.store.ts)
+  - [Sidebar](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/templates/sidebar.store.ts)
+
+Ushbu ma'qola sizga zustand ni o'rganishda va ko'nikmalaringizni oshirishda yordam beradi degan umoiddaman. drCoder )
