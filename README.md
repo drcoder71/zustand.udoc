@@ -18,13 +18,13 @@ Zustand — bu React uchun yengil va tez state management kutubxonasi.
 
 ## Bo‘limlar
 
-- [Guide](https://github.com/drcoder71/zustand.udoc/tree/main/zustand.doc/guide)
-  - [Introduction](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/introduction.md)
-  - [Data Types](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/data-types.md)
-  - [Storage Management](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/guide/storage-management.md)
+- [Guide](https://github.com/drcoder71/zustand.udoc/tree/main/guide)
+  - [Introduction](https://github.com/drcoder71/zustand.udoc/blob/main/guide/introduction.md)
+  - [Data Types](https://github.com/drcoder71/zustand.udoc/blob/main/guide/data-types.md)
+  - [Storage Management](https://github.com/drcoder71/zustand.udoc/blob/main/guide/storage-management.md)
 
-- [Templates](https://github.com/drcoder71/zustand.udoc/tree/main/zustand.doc/templates)
-  - [Auth](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/templates/auth.store.ts)
-  - [Sidebar](https://github.com/drcoder71/zustand.udoc/blob/main/zustand.doc/templates/sidebar.store.ts)
+- [Templates](https://github.com/drcoder71/zustand.udoc/tree/main/templates)
+  - [Auth](https://github.com/drcoder71/zustand.udoc/blob/main/templates/auth.store.ts)
+  - [Sidebar](https://github.com/drcoder71/zustand.udoc/blob/main/templates/sidebar.store.ts)
 
 Ushbu ma'qola sizga zustand ni o'rganishda va ko'nikmalaringizni oshirishda yordam beradi degan umoiddaman. drCoder )
